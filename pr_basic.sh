@@ -19,6 +19,7 @@ git checkout andrewtoth/scan-and-unlink-pruned-files
 
 
 # See the PR diff in your difttool editor. You can set your custom IDE too.
+# For setting up VSCode as `difftool`, follow instructions here : https://www.roboleary.net/vscode/2020/09/15/vscode-git.html
 git difftool HEAD~1 HEAD
 
 # Install basic dependencies
