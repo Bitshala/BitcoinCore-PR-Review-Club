@@ -26,6 +26,7 @@ If you are a first time participant, or haven't reviewed Core PRs before, you mi
 
 ### Basics
  - Common operational steps of Core review Process: [youtube](https://youtu.be/n5CRJRqkAoc)
+   Code available [here](pr_basic.sh)
  - A Tour over the Bitcoin core Code base: [youtube](TBD)
 
 ### Further Reading
