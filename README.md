@@ -36,7 +36,7 @@ If you are a first time participant, or haven't reviewed Core PRs before, you mi
  - Intro to Bitcoin Core Dev: [doc](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
  - Contributing to Bitcoin Core, a personal account: [doc](https://bitcointechtalk.com/contributing-to-bitcoin-core-a-personal-account-35f3a594340b)
  - Onboarding to Bitcoin Core: [doc](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365)
- - How to Review Pull Requests in Bitcoin Core: [doc](https://www.youtube.com/watch?v=n5CRJRqkAoc&t=1568s)
+ - How to Review Pull Requests in Bitcoin Core: [youtube](https://www.youtube.com/watch?v=n5CRJRqkAoc&t=1568s)
  - From “Hello World” to Bitcoin Core: [doc](https://rajarshi149.medium.com/from-hello-world-to-bitcoin-core-dd233ce99f72)
 
 
