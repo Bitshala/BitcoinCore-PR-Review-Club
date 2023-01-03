@@ -2,7 +2,7 @@
 
 This is a PR review club organized by [Bitshala](https://www.bitshala.org/), in inspiration from [Bitcoin Core Reviews](https://bitcoincore.reviews/).
 
-This club is organized every week Wednesday on IST 20:00 (UTC 14:30) at [jitsi](https://meet.jit.si/BitshalaPRReviewClub) and is open
+This club is organized every week Thursday on IST 20:00 (UTC 14:30) at [jitsi](https://meet.jit.si/BitshalaPRReviewClub) and is open
 to all.
 
 Majorly focused on Indian young developers who are willing to get into the details of Bitcoin Core but are intimidated with
@@ -26,8 +26,8 @@ If you are a first time participant, or haven't reviewed Core PRs before, you mi
 
 ### Basics
  - Common operational steps of Core review Process: [youtube](https://youtu.be/n5CRJRqkAoc)
-   Code available [here](pr_basic.sh)
- - A Tour over the Bitcoin core Code base: [youtube](TBD)
+   Code available [here](./test-pr.sh)
+ - Bitcoin Core Codebase introductory Tour: [youtube](TBD)
 
 ### Further Reading
  - Contributing to Bitcoin Core: [doc](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md)
@@ -41,12 +41,18 @@ If you are a first time participant, or haven't reviewed Core PRs before, you mi
 
 # Upcoming Review Club
 
-- Date: 28-12-2022
+- Date: 09-01-2023
 - Jitsi: https://meet.jit.si/BitshalaPRReviewClub
-- PR: https://github.com/bitcoin/bitcoin/pull/24170
-- Type: P2P
+- PR: https://github.com/bitcoin/bitcoin/pull/26631
+- Context: Functional Test
+- Difficulty: Easy
+- Language: ['python']
 
-### Theory
-This PR has been already covered by the Bitcoin Core Review Club and notes and related questions can be found [here](https://bitcoincore.reviews/24170)
+### Summary
+This PR adds a new python functional test to cover the mempool dust relay policies.
+#### Learnings
+ - Introduction to [functional test framework](youtube time link) of core.
+ - Explore testing directions while reviewing.
+ - Observing test outputs. Modifying tests and breaking the assertions.
 
-
+Previous Bitcoin Core Review Club and [Notes and Questions](https://bitcoincore.reviews/26631).
