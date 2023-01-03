@@ -27,7 +27,7 @@ If you are a first time participant, or haven't reviewed Core PRs before, you mi
 ### Basics
  - Common operational steps of Core review Process: [youtube](https://youtu.be/n5CRJRqkAoc)
    Code available [here](./test-pr.sh)
- - Bitcoin Core Codebase introductory Tour: [youtube](TBD)
+ - Bitcoin Core Codebase introductory Tour: [youtube](https://www.youtube.com/watch?v=MbinzItqsXI)
 
 ### Further Reading
  - Contributing to Bitcoin Core: [doc](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md)
@@ -51,7 +51,7 @@ If you are a first time participant, or haven't reviewed Core PRs before, you mi
 ### Summary
 This PR adds a new python functional test to cover the mempool dust relay policies.
 #### Learnings
- - Introduction to [functional test framework](youtube time link) of core.
+ - Introduction to [functional test framework](https://www.youtube.com/watch?v=MbinzItqsXI&t=2085s) of core.
  - Explore testing directions while reviewing.
  - Observing test outputs. Modifying tests and breaking the assertions.
 
