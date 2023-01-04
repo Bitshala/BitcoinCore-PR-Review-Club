@@ -42,5 +42,5 @@ If you are a first time participant, or haven't reviewed Core PRs before, you mi
 
 # Upcoming Review Club
 
-- Date: 09-01-2023
+- Date: 12-01-2023
 - Topic: https://github.com/Bitshala/Bitcoin-Core-Review/issues/1
