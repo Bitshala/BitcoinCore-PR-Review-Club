@@ -2,12 +2,12 @@
 
 This is a PR review club organized by [Bitshala](https://www.bitshala.org/), with inspiration from [Bitcoin Core Reviews](https://bitcoincore.reviews/).
 
-This club is organized every week Thursday on at IST 20:00 (UTC 14:30) at [jitsi](https://meet.jit.si/BitshalaPRReviewClub) and is open
+This club is organized every Thursday at IST 20:00 (UTC 14:30) at [jitsi](https://meet.jit.si/BitshalaPRReviewClub) and is open
 to all.
 
-Organized keeping a focus on young Indian developers willing to get into the details of Bitcoin Core but is open for everybody to join in.
+PR review is the easiest way to get into the weeds of Bitcoin Core Development. While the IRC review club is the goto place existing Core devs, it can be intimidating for new comers. For such reason, this club is organized to facilitate adhoc and loosely following discussions over a live call for an hour.
 
-The review club sessions are conducted over jitsi calls and are kept informal and casual.
+So if you are an aspiring young dev and are a bit disoriented on how to get started with Bitcoin development, do consider joining our club.
 
 > Participating with video isn't mandatory.
 > The calls will be recorded and published for educational purpose
@@ -15,6 +15,7 @@ The review club sessions are conducted over jitsi calls and are kept informal an
 # How To Participate
 
  - Keep an eye on this `README` to find weekly updates.
+ - Join the [zulip server](https://zulip.bitshala.org/join/oue442qujs7qvvdwkqixqj6p/) where PR related discussions take place. Jitsi link for joining before the call is also shared here.
  - Each Week's topic detail is included in an [Issue](https://github.com/Bitshala/Bitcoin-Core-Review/issues). Use the issue comments to post questions and discussions regarding the PR or review process in general.
  - Review process starts by checking out the PR and going through the `Notes and Questions` included in the topic details.
  - Prepare your answers before joining the call. There can be many right answers, but there are no stupid questions.
@@ -23,7 +24,7 @@ The review club sessions are conducted over jitsi calls and are kept informal an
 
 # Prerequisites
 
-If you are a first-time participant or haven't reviewed Core PRs before, you might wanna check the following resources.
+If you are a first-time participant or haven't reviewed Core PRs before, you will find the following resources helpful.
 
 ### Basics
  - Common operational steps of Core review Process: [youtube](https://youtu.be/n5CRJRqkAoc)
@@ -39,9 +40,29 @@ If you are a first-time participant or haven't reviewed Core PRs before, you mig
  - From “Hello World” to Bitcoin Core: [doc](https://rajarshi149.medium.com/from-hello-world-to-bitcoin-core-dd233ce99f72)
 
 
-# Next Review Club (Genesis)
+# Next Review Club
+----
 
-- Date: 12-01-2023
-- Topic: https://github.com/Bitshala/Bitcoin-Core-Review/issues/1
+
 
 # Previous Review Club
+- Date: 09-03-23
+- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/16
+----
+- Date: 23-02-23
+- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/14
+----
+- Date: 16-02-23
+- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/12
+----
+- Date: 09-02-23
+- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/10
+----
+- Date: 26-01-23
+- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/8
+----
+- Date: 19-01-23
+- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/4
+----
+- Date: 12-01-2023
+- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/7
