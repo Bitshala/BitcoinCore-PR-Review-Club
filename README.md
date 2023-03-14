@@ -5,7 +5,7 @@ This is a PR review club organized by [Bitshala](https://www.bitshala.org/), wit
 This club is organized every Thursday at IST 20:00 (UTC 14:30) at [jitsi](https://meet.jit.si/BitshalaPRReviewClub) and is open
 to all.
 
-PR review is the easiest way to get into the weeds of Bitcoin Core Development. While the IRC review club is the goto place existing Core devs, it can be intimidating for new comers. For such reason, this club is organized to facilitate adhoc and loosely following discussions over a live call for an hour.
+PR review is the easiest way to get into the weeds of Bitcoin Core Development. While the IRC review club is the go-to place for existing Core devs, it can be intimidating for newcomers. For such reason, this club is organized to facilitate adhoc and loosely following discussions over a live call for an hour.
 
 So if you are an aspiring young dev and are a bit disoriented on how to get started with Bitcoin development, do consider joining our club.
 
@@ -41,9 +41,8 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 
 # Next Review Club
-----
-
-
+ - Date: 16-03-23
+ - Issue: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/17
 
 # Previous Review Club
 - Date: 09-03-23
