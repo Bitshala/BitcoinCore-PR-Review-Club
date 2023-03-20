@@ -15,7 +15,7 @@ So if you are an aspiring young dev and are a bit disoriented on how to get star
 # How To Participate
 
  - Keep an eye on this `README` to find weekly updates.
- - Join the [zulip server](https://zulip.bitshala.org/join/oue442qujs7qvvdwkqixqj6p/) where PR related discussions take place. Jitsi link for joining before the call is also shared here.
+ - Join the [zulip server](https://zulip.bitshala.org/join/eyevvlnmbwwqpclilghxfkjj/) where PR related discussions take place. Jitsi link for joining before the call is also shared here.
  - Each Week's topic detail is included in an [Issue](https://github.com/Bitshala/Bitcoin-Core-Review/issues). Use the issue comments to post questions and discussions regarding the PR or review process in general.
  - Review process starts by checking out the PR and going through the `Notes and Questions` included in the topic details.
  - Prepare your answers before joining the call. There can be many right answers, but there are no stupid questions.
@@ -41,10 +41,13 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 
 # Next Review Club
- - Date: 16-03-23
- - Issue: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/17
+ - Date: 23-03-23
+ - Issue: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/19
 
 # Previous Review Club
+ - Date: 16-03-23
+ - Discussions: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/18
+----
 - Date: 09-03-23
 - Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/16
 ----
