@@ -40,10 +40,16 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 
 # Next Review Club
- - Date: 23-03-23
- - Issue: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/19
+ - Date: 13-04-23
+ - Issue: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/23
 
 # Previous Review Club
+ - Date: 06-04-23
+ - Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/22
+----
+ - Date: 23-03-23
+ - Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/20
+----
  - Date: 16-03-23
  - Discussions: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/18
 ----
