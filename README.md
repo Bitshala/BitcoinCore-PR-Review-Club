@@ -14,7 +14,7 @@ So if you are an aspiring young dev and are a bit disoriented on how to get star
 # How To Participate
 
  - Keep an eye on this `README` to find weekly updates.
- - Join the [zulip server](https://zulip.bitshala.org/join/vih66i54ioonwhc5zxe6w45u/) where PR related discussions take place. Jitsi link for joining before the call is also shared here.
+ - Join the [Discord server](https://discord.gg/atjEPVTdsQ) where PR related discussions take place. Jitsi link for joining before the call is also shared here.
  - Each Week's topic detail is included in an [Issue](https://github.com/Bitshala/Bitcoin-Core-Review/issues). Use the issue comments to post questions and discussions regarding the PR or review process in general.
  - Review process starts by checking out the PR and going through the `Notes and Questions` included in the topic details.
  - Prepare your answers before joining the call. There can be many right answers, but there are no stupid questions.
