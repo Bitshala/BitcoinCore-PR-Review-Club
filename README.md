@@ -2,7 +2,8 @@
 
 This is a PR review club organized by [Bitshala](https://www.bitshala.org/), with inspiration from [Bitcoin Core Reviews](https://bitcoincore.reviews/).
 
-This club is organized every Thursday at IST 20:00 (UTC 14:30) and is open to all. Joining link for the jitsi room is shared in the zulip (link below) chat 30 mins before the call.
+This club is organized every Thursday at IST 20:00 (UTC 14:30) and is open to all. Joining link for the jitsi room is shared in the  #announcements channel of [Bitshala Discord](https://discord.gg/atjEPVTdsQ). (the "location" in the Event Card).
+
 
 PR review is the easiest way to get into the weeds of Bitcoin Core Development. While the IRC review club is the go-to place for existing Core devs, it can be intimidating for newcomers. For such reason, this club is organized to facilitate adhoc and loosely following discussions over a live call for an hour.
 
@@ -14,7 +15,7 @@ So if you are an aspiring young dev and are a bit disoriented on how to get star
 # How To Participate
 
  - Keep an eye on this `README` to find weekly updates.
- - Join the [Discord server](https://discord.gg/atjEPVTdsQ) where PR related discussions take place. Jitsi link for joining before the call is also shared here.
+ - Join the [Bitshala Discord](https://discord.gg/atjEPVTdsQ) where PR related discussions take place. Jitsi link for joining the call will be shared there.
  - Each Week's topic detail is included in an [Issue](https://github.com/Bitshala/Bitcoin-Core-Review/issues). Use the issue comments to post questions and discussions regarding the PR or review process in general.
  - Review process starts by checking out the PR and going through the `Notes and Questions` included in the topic details.
  - Prepare your answers before joining the call. There can be many right answers, but there are no stupid questions.
