@@ -42,10 +42,16 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 # Next Review Club
 
-- Date: 25-03-23
-- Issue: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/26
+ - Date: 08-06-2023
+ - Title: Introduce secp256k1 module with field and group classes to test framework #26222
+ - Issue: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/29
+
 
 # Previous Review Club
+
+- Date: 25-05-23
+- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/28
+-----
 
  - Date: 18-05-23
  - Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/27
