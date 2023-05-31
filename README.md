@@ -44,7 +44,7 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
  - Date: 08-06-2023
  - Title: Introduce secp256k1 module with field and group classes to test framework #26222
- - Issue: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/29
+ - PR Details: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/29
 
 
 # Previous Review Club
