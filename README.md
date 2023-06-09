@@ -48,42 +48,18 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 # Previous Review Club
 
-- Date: 25-05-23
-- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/28
------
-
- - Date: 18-05-23
- - Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/27
-----
- - Date: 13-04-23
- - Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/24
-----
- - Date: 06-04-23
- - Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/22
-----
- - Date: 23-03-23
- - Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/20
-----
- - Date: 16-03-23
- - Discussions: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/18
-----
-- Date: 09-03-23
-- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/16
-----
-- Date: 23-02-23
-- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/14
-----
-- Date: 16-02-23
-- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/12
-----
-- Date: 09-02-23
-- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/10
-----
-- Date: 26-01-23
-- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/8
-----
-- Date: 19-01-23
-- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/4
-----
-- Date: 12-01-2023
-- Discussion: https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/7
+| date          | PR notes/discussions                                                                                                                                           | video                                | tag                                            |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|------------------------------------------------|
+| 25 May 2023   | [Add importmempool RPC #27460](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/28)                                                              |                                      | `rpc` `mempool`                                |
+| 18 May 2023   | [When a block is disconnected, update transactions that are no longer conflicted #27145](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/27)    |                                      | `wallet`                                       |
+| 13 May 2023   | [Skip netgroup diversity of new connections for tor/i2p/cjdns #27374](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/24)                       |                                      | `p2p` `netgroup`                               |
+| 6 May 2023    | [Add Single Random Draw as an additional coin selection algorithm #17526](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/22)                   |                                      | `wallet` `coin selection`                      |
+| 23 March 2023 | [Allow whitelisting outgoing connections #27114](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/20)                                            | [link](https://youtu.be/EYPfGw9Z14w) | `p2p` `whitelist`                              |
+| 16 March 2023 | [Add foreign_outputs metadata to support CoinJoin transactions #25991](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/18)                      | [link](https://youtu.be/oE3pQMK1oTk) | `wallet` `coinjoin`                            |
+| 9 March 2023  | [Activation logic for testing consensus changes #16](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/16)                                        | [link](https://youtu.be/gXPKYZujeJE) | `bitcoin inquisition` `consensus` `soft forks` |
+| 23 Feb 2023   | [Prevent block index fingerprinting by sending additional getheaders messages #24571](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/14)       |                                      | `p2p` `fingerprinting`                         |
+| 16 Feb 2023   | [Track AddrMan totals by network and table, improve precision of adding fixed seeds #26847](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/12) | [link](https://youtu.be/fp5lmVss--Q) | `p2p` `addrman`                                |
+| 9 Feb 2023    | [Add 'sendall' RPC née sweep #24118](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/10)                                                        | [link](https://youtu.be/BWIpr2bR1Iw) | `wallet` `RPC`                                 |
+| 26 Jan 2023   | [Reduce resource usage for inbound block-relay-only connections #22778](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/8)                      |                                      | `p2p`                                          |
+| 19 Jan 2023   | [Manual block-relay-only connections with addnode #24170](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/4)                                    | [link](https://youtu.be/4YCUHsfFazQ) | `p2p` `rpc`                                    |
+| 12 Jan 2023   | [Add coverage for dust mempool policy (-dustrelayfee setting) #26631 ](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/7)                       |                                      | `test` `mempool`                               |
