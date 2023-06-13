@@ -40,16 +40,16 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 
 # Next Review Club
-
- - Date: 08-06-2023
- - Title: Introduce secp256k1 module with field and group classes to test framework #26222
- - PR Details: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/29
+ - Date: 22-06-2023
+ - Title: BIP-325: Signet [consensus] #18267
+ - PR Details: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/33
 
 
 # Previous Review Club
 
 | date          | PR notes/discussions                                                                                                                                           | video                                | tag                                            |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|------------------------------------------------|
+| 8 June 2023   | [Introduce secp256k1 module with field and group classes to test framework #26222](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/32) |   | `crypto` `functional test framework` |
 | 25 May 2023   | [Add importmempool RPC #27460](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/28)                                                              |                                      | `rpc` `mempool`                                |
 | 18 May 2023   | [When a block is disconnected, update transactions that are no longer conflicted #27145](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/27)    |                                      | `wallet`                                       |
 | 13 May 2023   | [Skip netgroup diversity of new connections for tor/i2p/cjdns #27374](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/24)                       |                                      | `p2p` `netgroup`                               |
