@@ -40,20 +40,19 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 
 # Next Review Club
- - Date: 22-06-2023
- - Title: BIP-325: Signet [consensus] #18267
- - PR Details: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/33
+ TBD
 
 
 # Previous Review Club
 
 | date          | PR notes/discussions                                                                                                                                           | video                                | tag                                            |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|------------------------------------------------|
+| 22 June 2023  | [BIP-325: Signet [consensus] #18267](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/34)                                                        | [link](https://youtu.be/_IYvHhGmEXU) | `consensus` `Signet` `validation` `tests`      |
 | 8 June 2023   | [Introduce secp256k1 module with field and group classes to test framework #26222](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/32)          | [link](https://youtu.be/jdRbTmekF8U) | `crypto` `functional test framework`           |
 | 25 May 2023   | [Add importmempool RPC #27460](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/28)                                                              |                                      | `rpc` `mempool`                                |
 | 18 May 2023   | [When a block is disconnected, update transactions that are no longer conflicted #27145](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/27)    | [link](https://youtu.be/hW1IYpnwzAw) | `wallet`                                       |
-| 13 May 2023   | [Skip netgroup diversity of new connections for tor/i2p/cjdns #27374](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/24)                       | [link](https://youtu.be/IbU3fAkumJk) | `p2p` `netgroup`                               |
-| 6 May 2023    | [Add Single Random Draw as an additional coin selection algorithm #17526](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/22)                   |                                      | `wallet` `coin selection`                      |
+| 13 April 2023 | [Skip netgroup diversity of new connections for tor/i2p/cjdns #27374](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/24)                       | [link](https://youtu.be/IbU3fAkumJk) | `p2p` `netgroup`                               |
+| 6 April 2023  | [Add Single Random Draw as an additional coin selection algorithm #17526](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/22)                   | [link](https://youtu.be/yY2NNIb0YCo) | `wallet` `coin selection`                      |
 | 23 March 2023 | [Allow whitelisting outgoing connections #27114](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/20)                                            | [link](https://youtu.be/EYPfGw9Z14w) | `p2p` `whitelist`                              |
 | 16 March 2023 | [Add foreign_outputs metadata to support CoinJoin transactions #25991](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/18)                      | [link](https://youtu.be/oE3pQMK1oTk) | `wallet` `coinjoin`                            |
 | 9 March 2023  | [Activation logic for testing consensus changes #16](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/16)                                        | [link](https://youtu.be/gXPKYZujeJE) | `bitcoin inquisition` `consensus` `soft forks` |
