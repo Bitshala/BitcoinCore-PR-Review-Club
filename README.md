@@ -40,8 +40,9 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 
 # Next Review Club
- TBD
-
+ Date: 6th July 2023.
+ Title:  Miniscript support in Output Descriptors #24148
+ PR Details: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/35
 
 # Previous Review Club
 
