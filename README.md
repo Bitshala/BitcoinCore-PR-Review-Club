@@ -5,11 +5,23 @@ This is a PR review club organized by [Bitshala](https://www.bitshala.org/), wit
 This club is organized every Thursday at IST 20:00 (UTC 14:30) and is open to all. Joining link for the jitsi room is shared in the  #announcements channel of [Bitshala Discord](https://discord.gg/atjEPVTdsQ). (the "location" in the Event Card). For event reminders, subscribe to our [Google Calendar](https://calendar.google.com/calendar/render?cid=1e2c7851addc2867f080e0baf593ed3a758d4af7fbf2118a509b916aaa1a31a1@group.calendar.google.com) or add this [ICS file](https://calendar.google.com/calendar/ical/1e2c7851addc2867f080e0baf593ed3a758d4af7fbf2118a509b916aaa1a31a1%40group.calendar.google.com/public/basic.ics) to whichever calendar application you're using.
 
 PR review is the easiest way to get into the weeds of Bitcoin Core Development. While the IRC review club is the go-to place for existing Core devs, it can be intimidating for newcomers. For such reason, this club is organized to facilitate adhoc and loosely following discussions over a live call for an hour.
-
 So if you are an aspiring young dev and are a bit disoriented on how to get started with Bitcoin development, do consider joining our club.
 
 > Participating with video isn't mandatory.
 > The calls will be recorded and published for educational purpose
+
+**Index:**
+   - [Next Review Club](#next-review-club)
+   - [How To Participate](#how-to-participate)
+   - [Prerequisites](#prerequisites)
+      - [Basics](#basics)
+      - [Further Reading](#further-reading)
+   - [Previous Review Club](#previous-review-club)
+
+# Next Review Club
+- Date: 6th July 2023.
+- Title:  Miniscript support in Output Descriptors #24148
+- PR Details: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/35
 
 # How To Participate
 
@@ -37,12 +49,6 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
  - Contributing to Bitcoin Core, a personal account: [doc](https://bitcointechtalk.com/contributing-to-bitcoin-core-a-personal-account-35f3a594340b)
  - Onboarding to Bitcoin Core: [doc](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365)
  - From “Hello World” to Bitcoin Core: [doc](https://rajarshi149.medium.com/from-hello-world-to-bitcoin-core-dd233ce99f72)
-
-
-# Next Review Club
- - Date: 6th July 2023.
- - Title:  Miniscript support in Output Descriptors #24148
- - PR Details: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/35
 
 # Previous Review Club
 
