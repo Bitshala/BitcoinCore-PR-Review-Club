@@ -4,31 +4,32 @@ This is a PR review club organized by [Bitshala](https://www.bitshala.org/), wit
 
 This club is organized every Thursday at IST 20:00 (UTC 14:30) and is open to all. Joining link for the jitsi room is shared in the  #announcements channel of [Bitshala Discord](https://discord.gg/atjEPVTdsQ). (the "location" in the Event Card). For event reminders, subscribe to our [Google Calendar](https://calendar.google.com/calendar/render?cid=1e2c7851addc2867f080e0baf593ed3a758d4af7fbf2118a509b916aaa1a31a1@group.calendar.google.com) or add this [ICS file](https://calendar.google.com/calendar/ical/1e2c7851addc2867f080e0baf593ed3a758d4af7fbf2118a509b916aaa1a31a1%40group.calendar.google.com/public/basic.ics) to whichever calendar application you're using.
 
-PR review is the easiest way to get into the weeds of Bitcoin Core Development. While the IRC review club is the go-to place for existing Core devs, it can be intimidating for newcomers. For such reason, this club is organized to facilitate adhoc and loosely following discussions over a live call for an hour.
+PR review is the easiest way to get into the weeds of Bitcoin Core Development. While the IRC review club is the go-to place for existing Core devs, it can be intimidating for newcomers. For such reason, this club is organized to facilitate ad-hoc and loosely following discussions over a live call for an hour.
 So if you are an aspiring young dev and are a bit disoriented on how to get started with Bitcoin development, do consider joining our club.
 
 > Participating with video isn't mandatory.
 > The calls will be recorded and published for educational purpose
 
 **Index:**
-   - [Next Review Club](#next-review-club)
-   - [How To Participate](#how-to-participate)
-   - [Prerequisites](#prerequisites)
-      - [Basics](#basics)
-      - [Further Reading](#further-reading)
-   - [Previous Review Club](#previous-review-club)
+- [Bitshala Bitcoin Core PR Review Club](#bitshala-bitcoin-core-pr-review-club)
+- [Next Review Club](#next-review-club)
+- [How To Participate](#how-to-participate)
+- [Prerequisites](#prerequisites)
+    - [Basics](#basics)
+    - [Further Reading](#further-reading)
+- [Previous Review Club](#previous-review-club)
 
 # Next Review Club
-- Date: 6th July 2023.
-- Title:  Miniscript support in Output Descriptors #24148
-- PR Details: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/35
+- Date: 20th July 2023.
+- Title:  Miniscript support in Output Descriptors (Part 2) #24148
+- PR Details: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/37
 
 # How To Participate
 
  - Keep an eye on this `README` to find weekly updates.
- - Join the [Bitshala Discord](https://discord.gg/atjEPVTdsQ) where PR related discussions take place. Jitsi link for joining the call will be shared there.
+ - Join the [Bitshala Discord](https://discord.gg/atjEPVTdsQ), where PR-related discussions take place. Jitsi link for joining the call will be shared there.
  - Each Week's topic detail is included in an [Issue](https://github.com/Bitshala/Bitcoin-Core-Review/issues). Use the issue comments to post questions and discussions regarding the PR or review process in general.
- - Review process starts by checking out the PR and going through the `Notes and Questions` included in the topic details.
+ - The review process starts by checking out the PR and going through the `Notes and Questions` included in the topic details.
  - Prepare your answers before joining the call. There can be many right answers, but there are no stupid questions.
  - Join in the jitsi room at the scheduled time and participate in the conversation.
  - Submit your final review to the original Bitcoin Core PR thread.
@@ -40,7 +41,7 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 ### Basics
  - Common operational steps of Core review Process: [youtube](https://youtu.be/n5CRJRqkAoc)
    Code available [here](./test-pr.sh)
- - Bitcoin Core Codebase introductory Tour: [youtube](https://www.youtube.com/watch?v=MbinzItqsXI)
+ - Bitcoin Core Codebase Introductory Tour: [youtube](https://www.youtube.com/watch?v=MbinzItqsXI)
 
 ### Further Reading
  - Contributing to Bitcoin Core: [doc](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md)
@@ -54,6 +55,7 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 | date          | PR notes/discussions                                                                                                                                           | video                                | tag                                            |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|------------------------------------------------|
+| 06 July 2023  | [Miniscript support in Output Descriptors #24148 (Part 1)](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/36)                                                        | [link](https://youtu.be/3q3hlSauoW4) | `wallet` `miniscript` `descriptor`      |
 | 22 June 2023  | [BIP-325: Signet [consensus] #18267](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/34)                                                        | [link](https://youtu.be/_IYvHhGmEXU) | `consensus` `Signet` `validation` `tests`      |
 | 8 June 2023   | [Introduce secp256k1 module with field and group classes to test framework #26222](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/32)          | [link](https://youtu.be/jdRbTmekF8U) | `crypto` `functional test framework`           |
 | 25 May 2023   | [Add importmempool RPC #27460](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/28)                                                              |                                      | `rpc` `mempool`                                |
