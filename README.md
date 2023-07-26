@@ -20,9 +20,9 @@ So if you are an aspiring young dev and are a bit disoriented on how to get star
 - [Previous Review Club](#previous-review-club)
 
 # Next Review Club
-- Date: 20th July 2023.
-- Title:  Miniscript support in Output Descriptors (Part 2) #24148
-- PR Details: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/37
+- Date: 3rd Aug July 2023.
+- Title:  Silent Payments: Implement BIP352 #28122
+- PR Details: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/39
 
 # How To Participate
 
@@ -55,6 +55,7 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 | date          | PR notes/discussions                                                                                                                                           | video                                | tag                                            |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|------------------------------------------------|
+| 20 July 2023  | [Miniscript support in Output Descriptors #24148 (Part 2)](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/36)                                                        |  | `wallet` `miniscript` `descriptor`      |
 | 06 July 2023  | [Miniscript support in Output Descriptors #24148 (Part 1)](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/36)                                                        | [link](https://youtu.be/3q3hlSauoW4) | `wallet` `miniscript` `descriptor`      |
 | 22 June 2023  | [BIP-325: Signet [consensus] #18267](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/34)                                                        | [link](https://youtu.be/_IYvHhGmEXU) | `consensus` `Signet` `validation` `tests`      |
 | 8 June 2023   | [Introduce secp256k1 module with field and group classes to test framework #26222](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/32)          | [link](https://youtu.be/jdRbTmekF8U) | `crypto` `functional test framework`           |
