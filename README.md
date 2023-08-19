@@ -2,7 +2,7 @@
 
 This is a PR review club organized by [Bitshala](https://www.bitshala.org/), with inspiration from [Bitcoin Core Reviews](https://bitcoincore.reviews/).
 
-This club is organized every Thursday at IST 20:00 (UTC 14:30) and is open to all. Joining link for the jitsi room is shared in the  #announcements channel of [Bitshala Discord](https://discord.gg/atjEPVTdsQ). (the "location" in the Event Card). For event reminders, subscribe to our [Google Calendar](https://calendar.google.com/calendar/render?cid=1e2c7851addc2867f080e0baf593ed3a758d4af7fbf2118a509b916aaa1a31a1@group.calendar.google.com) or add this [ICS file](https://calendar.google.com/calendar/ical/1e2c7851addc2867f080e0baf593ed3a758d4af7fbf2118a509b916aaa1a31a1%40group.calendar.google.com/public/basic.ics) to whichever calendar application you're using.
+This club is organized biweekly on Thursday at IST 20:00 (UTC 14:30) and is open to all. Joining link for the jitsi room is shared in the  #announcements channel of [Bitshala Discord](https://discord.gg/atjEPVTdsQ). (the "location" in the Event Card). For event reminders, subscribe to our [Google Calendar](https://calendar.google.com/calendar/render?cid=1e2c7851addc2867f080e0baf593ed3a758d4af7fbf2118a509b916aaa1a31a1@group.calendar.google.com) or add this [ICS file](https://calendar.google.com/calendar/ical/1e2c7851addc2867f080e0baf593ed3a758d4af7fbf2118a509b916aaa1a31a1%40group.calendar.google.com/public/basic.ics) to whichever calendar application you're using.
 
 PR review is the easiest way to get into the weeds of Bitcoin Core Development. While the IRC review club is the go-to place for existing Core devs, it can be intimidating for newcomers. For such reason, this club is organized to facilitate ad-hoc and loosely following discussions over a live call for an hour.
 So if you are an aspiring young dev and are a bit disoriented on how to get started with Bitcoin development, do consider joining our club.
@@ -21,7 +21,7 @@ So if you are an aspiring young dev and are a bit disoriented on how to get star
 
 # Next Review Club
 - Date: 24 Aug 2023.
-- Title:  crypto: more Span<std::byte> modernization & follow-ups
+- Title:  crypto: more Span\<std::byte> modernization & follow-ups
 - PR Details: https://github.com/bitcoin/bitcoin/pull/28100
 
 # How To Participate
@@ -55,9 +55,9 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 | date          | PR notes/discussions                                                                                                                                           | video                                | tag                                            |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|------------------------------------------------|
-| 03 Aug 2023  | [Silent Payments: Implement BIP352](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/41)                                                        |  | `wallet` `silent-payment`      |
-| 20 July 2023  | [Miniscript support in Output Descriptors #24148 (Part 2)](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/36)                                                        |  | `wallet` `miniscript` `descriptor`      |
-| 06 July 2023  | [Miniscript support in Output Descriptors #24148 (Part 1)](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/36)                                                        | [link](https://youtu.be/3q3hlSauoW4) | `wallet` `miniscript` `descriptor`      |
+| 03 Aug 2023   | [Silent Payments: Implement BIP352](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/41)                                                         |                                      | `wallet` `silent-payment`                      |
+| 20 July 2023  | [Miniscript support in Output Descriptors #24148 (Part 2)](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/36)                                  |                                      | `wallet` `miniscript` `descriptor`             |
+| 06 July 2023  | [Miniscript support in Output Descriptors #24148 (Part 1)](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/36)                                  | [link](https://youtu.be/3q3hlSauoW4) | `wallet` `miniscript` `descriptor`             |
 | 22 June 2023  | [BIP-325: Signet [consensus] #18267](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/34)                                                        | [link](https://youtu.be/_IYvHhGmEXU) | `consensus` `Signet` `validation` `tests`      |
 | 8 June 2023   | [Introduce secp256k1 module with field and group classes to test framework #26222](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/32)          | [link](https://youtu.be/jdRbTmekF8U) | `crypto` `functional test framework`           |
 | 25 May 2023   | [Add importmempool RPC #27460](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/28)                                                              |                                      | `rpc` `mempool`                                |
