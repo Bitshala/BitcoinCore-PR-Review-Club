@@ -15,11 +15,10 @@ sudo apt install libsqlite3-dev
 # Step 2: Get the PR branch you want to test
 
 # Add the PR author's fork of bitcoin as a remote. here https://github.com/bitcoin/bitcoin/pull/26533.
-git remote add andrewtoth git@github.com:andrewtoth/bitcoin.git
-# Fetch everything from the PR author
-git fetch andrewtoth
-# Checkout to the branch used in the PR.
-git checkout andrewtoth/scan-and-unlink-pruned-files
+# do once
+git config --global alias.pr '!f() { git fetch -fu ${2:-origin} refs/pull/$1/head:pr/$1 && git checkout pr/$1; }; f'
+# fetch the PR
+git pr 26533
 
 # See the PR diff in your difftool editor. You can set your custom IDE too.
 # For setting up VSCode as `difftool`, follow instructions here : https://www.roboleary.net/vscode/2020/09/15/vscode-git.html
