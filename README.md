@@ -20,9 +20,9 @@ So if you are an aspiring young dev and are a bit disoriented on how to get star
 - [Previous Review Club](#previous-review-club)
 
 # Next Review Club
-- Date: 24 Aug 2023.
-- Title:  crypto: more Span\<std::byte> modernization & follow-ups
-- PR Details: https://github.com/bitcoin/bitcoin/pull/28100
+- Date: 07 Sept 2023.
+- Title:  net: transport abstraction #28165
+- PR Details: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/44
 
 # How To Participate
 
@@ -55,8 +55,9 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 | date          | PR notes/discussions                                                                                                                                           | video                                | tag                                            |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|------------------------------------------------|
+| 24 Aug 2023   | [crypto: more Span\<std::byte> modernization & follow-ups](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/43)                                                         |  [link](https://youtu.be/Pb-IPHv3lCg?si=gj5vPqfdQ5AbtzHc)                                     | `crypto` `modern c++`                      |
 | 03 Aug 2023   | [Silent Payments: Implement BIP352](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/41)                                                         |                                      | `wallet` `silent-payment`                      |
-| 20 July 2023  | [Miniscript support in Output Descriptors #24148 (Part 2)](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/36)                                  |                                      | `wallet` `miniscript` `descriptor`             |
+| 20 July 2023  | [Miniscript support in Output Descriptors #24148 (Part 2)](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/36)                                  | [link](https://youtu.be/WRvhLYLZ_Rw?si=paFQfY7CHsVoTvWU)                                   | `wallet` `miniscript` `descriptor`             |
 | 06 July 2023  | [Miniscript support in Output Descriptors #24148 (Part 1)](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/36)                                  | [link](https://youtu.be/3q3hlSauoW4) | `wallet` `miniscript` `descriptor`             |
 | 22 June 2023  | [BIP-325: Signet [consensus] #18267](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/34)                                                        | [link](https://youtu.be/_IYvHhGmEXU) | `consensus` `Signet` `validation` `tests`      |
 | 8 June 2023   | [Introduce secp256k1 module with field and group classes to test framework #26222](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/32)          | [link](https://youtu.be/jdRbTmekF8U) | `crypto` `functional test framework`           |
