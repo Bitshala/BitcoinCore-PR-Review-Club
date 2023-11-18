@@ -20,9 +20,9 @@ So if you are an aspiring young dev and are a bit disoriented on how to get star
 - [Previous Review Club](#previous-review-club)
 
 # Next Review Club
-- Date: 16 Nov 2023
+- Date: 30 Nov 2023
 - Title: test/BIP324: functional tests for v2 P2P encryption #24748
-- PR Details: https://github.com/Bitshala/Bitcoin-PR-Review-Club/issues/46
+- PR Details: TBU
 
 # How To Participate
 
@@ -55,7 +55,8 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 | date          | PR notes/discussions                                                                                                                                           | video                                                    | tag                                            |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------|
-| 07 Sep 2023   | [net: transport abstraction](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/45)                                                                |                                                          | `p2p`                                          |
+| 16 Nov 2023   | [[Part 1/2: Introduction] Functional tests for v2 P2P encryption #24748](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/47)                |                                                          | `test` `p2p`                                   |
+| 07 Sep 2023   | [net: transport abstraction](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/45)                                                                | [link](https://youtu.be/H_nQVD5p-UU?si=rSHfrS0pxHM2xMKa) | `p2p`                                          |
 | 24 Aug 2023   | [crypto: more Span\<std::byte> modernization & follow-ups](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/43)                                  | [link](https://youtu.be/Pb-IPHv3lCg?si=gj5vPqfdQ5AbtzHc) | `crypto` `modern c++`                          |
 | 03 Aug 2023   | [Silent Payments: Implement BIP352](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/41)                                                         |                                                          | `wallet` `silent-payment`                      |
 | 20 July 2023  | [Miniscript support in Output Descriptors #24148 (Part 2)](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/36)                                  | [link](https://youtu.be/WRvhLYLZ_Rw?si=paFQfY7CHsVoTvWU) | `wallet` `miniscript` `descriptor`             |
