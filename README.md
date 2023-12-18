@@ -20,9 +20,9 @@ So if you are an aspiring young dev and are a bit disoriented on how to get star
 - [Previous Review Club](#previous-review-club)
 
 # Next Review Club
-- Date: 30 Nov 2023
-- Title: test/BIP324: functional tests for v2 P2P encryption #24748
-- PR Details: [Issue 48](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/48)
+- Date: 21 Dec 2023
+- Title: Together we review PRs in Bitcoin Core #1
+- PR Details: [Issue 49](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/49)
 
 # How To Participate
 
