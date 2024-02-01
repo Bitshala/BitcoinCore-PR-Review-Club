@@ -20,9 +20,9 @@ So if you are an aspiring young dev and are a bit disoriented on how to get star
 - [Previous Review Club](#previous-review-club)
 
 # Next Review Club
-- Date: 4 Jan 2023
-- Title: Together we review PRs in Bitcoin Core #2
-- PR Details: [Issue 49](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/49)
+- Date: 8 Feb 2024
+- Title: Together we review PRs in Bitcoin Core #4
+- PR Details: [#28336](https://github.com/bitcoin/bitcoin/pull/28336) detailed in [Issue 49](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/49)
 
 # How To Participate
 
@@ -55,7 +55,9 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 | date          | PR notes/discussions                                                                                                                                           | video                                                    | tag                                            |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------|
-| 21 Dec 2023   | [refactor: share and use GenerateRandomKey helper #28455 ](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/49)                                   | [link](https://youtu.be/oro1lM7B6hM?si=VcOYHA6ds7s_Zaoy) | `refactor` `test`                              |
+| 25 Jan 2024   | [test: p2p: check disconnect due to lack of desirable service flags #29279](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/49)                  | [link]()                                                 | `test` `p2p`                                   |
+| 4 Jan 2024    | [test: Use test framework utils in functional tests #28528](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/49)                                  | [link](https://youtu.be/Rn2NS4w-Iy4?si=E-xAoZfBU5zxkBib) | `test` `util`                                  |
+| 21 Dec 2023   | [refactor: share and use GenerateRandomKey helper #28455 ](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/49)                                   | [link](https://youtu.be/oro1lM7B6hM?si=VcOYHA6ds7s_Zaoy) | `test` `refactor`                              |
 | 07 Dec 2023   | [[Part 2/2] Functional tests for v2 P2P encryption #24748](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/50)                              | [link](https://youtu.be/PTkJTYIK3Bc?si=MR22NfUo6sSJPEzb) | `test` `p2p`                                   |
 | 16 Nov 2023   | [[Part 1/2: Introduction] Functional tests for v2 P2P encryption #24748](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/47)                | [link](https://www.youtube.com/watch?v=5_LZUt1eQaM)      | `test` `p2p`                                   |
 | 07 Sep 2023   | [net: transport abstraction](https://github.com/Bitshala/Bitcoin-PR-Review-Club/discussions/45)                                                                | [link](https://youtu.be/H_nQVD5p-UU?si=rSHfrS0pxHM2xMKa) | `p2p`                                          |
