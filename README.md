@@ -20,9 +20,9 @@ So if you are an aspiring young dev and are a bit disoriented on how to get star
 - [Previous Review Club](#previous-review-club)
 
 # Next Review Club
-- Date: 8 Feb 2024
-- Title: Together we review PRs in Bitcoin Core #4
-- PR Details: [#28336](https://github.com/bitcoin/bitcoin/pull/28336) detailed in [Issue 49](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/49)
+- Date: 28 March 2024
+- Title: v27.0 testing
+- PR Details: [https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/56](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/56)
 
 # How To Participate
 
