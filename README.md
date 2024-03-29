@@ -20,9 +20,9 @@ So if you are an aspiring young dev and are a bit disoriented on how to get star
 - [Previous Review Club](#previous-review-club)
 
 # Next Review Club
-- Date: 28 March 2024
-- Title: v27.0 testing
-- PR Details: [https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/56](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/56)
+- Date: 11 April 2024
+- Title: TBA
+- PR Details: TBA
 
 # How To Participate
 
@@ -55,6 +55,9 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 | index | date          | PR notes/discussions                                                                                                                                           | video                                                    | tag                                            |
 |-------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------|
+| 29    | 28 March 2024 | [v27.0 testing](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/56)                                                                              |                                                          | `testing guide`                                |
+| 28    | 14 March 2024 | [follow up ideas for p2p: Allow whitelisting manual connections #27114](https://github.com/bitcoin/bitcoin/pull/27114)                                         |                                                          | `p2p` `net` `whitelist`                        |
+| 27    | 22 Feb 2024   | [follow up ideas for test: Fix SegwitV0SignatureMsg nLockTime signedness #29400](https://github.com/bitcoin/bitcoin/pull/29400#discussion_r1481330149)         |                                                          | `good first issue` `test` `locktime`           |
 | 26    | 8 Feb 2024    | [rpc: parse legacy pubkeys consistently with specific error messages #28336](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/49)                 |                                                          | `test` `rpc`                                   |
 | 25    | 25 Jan 2024   | [test: p2p: check disconnect due to lack of desirable service flags #29279](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/49)                  |                                                          | `test` `p2p`                                   |
 | 24    | 4 Jan 2024    | [test: Use test framework utils in functional tests #28528](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/issues/49)                                  | [link](https://youtu.be/Rn2NS4w-Iy4?si=E-xAoZfBU5zxkBib) | `test` `util`                                  |
