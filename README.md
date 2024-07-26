@@ -20,7 +20,7 @@ So if you are an aspiring young dev and are a bit disoriented on how to get star
 - [Previous Review Club](#previous-review-club)
 
 # Next Review Club
-- Date: 11 April 2024
+- Date: 8 August 2024
 - Title: TBA
 - PR Details: TBA
 
@@ -55,6 +55,7 @@ If you are a first-time participant or haven't reviewed Core PRs before, you wil
 
 | index | date          | PR notes/discussions                                                                                                                                           | video                                                    | tag                                            |
 |-------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------|
+| 35    | 25 July 2024  | [consensus: Store transaction nVersion as uint32_t #29325](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/72)                              |                                                          | `consensus`                                    |
 | 34    | 11 July 2024  | [[Part 3/3: Writing unit tests and fuzz tests] p2p - Fill reconciliation sets](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/70)          |                                                          | `BIP330` `erlay`                               |                                                                                                                              
 | 33    | 13 June 2024  | [[Part 2/3] p2p: Fill reconciliation sets (Erlay) attempt 2 #30116](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/69)                     |                                                          | `BIP330` `erlay`                               |
 | 32    | 23 May 2024   | [[Part 1/3: Introduction] p2p: Fill reconciliation sets (Erlay) attempt 2 #30116](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/68)       | [link](https://youtu.be/LKMnKYk4x1A)                     | `BIP330` `erlay`                               |
