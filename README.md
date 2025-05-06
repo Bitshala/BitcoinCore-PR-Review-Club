@@ -2,59 +2,98 @@
 
 This is a PR review club organized by [Bitshala](https://www.bitshala.org/), with inspiration from [Bitcoin Core Reviews](https://bitcoincore.reviews/).
 
-This club is organized biweekly on Thursday at IST 20:00 (UTC 14:30) and is open to all. Joining link for the jitsi room is shared in the  #announcements channel of [Bitshala Discord](https://discord.gg/atjEPVTdsQ). (the "location" in the Event Card). For event reminders, subscribe to our [Google Calendar](https://calendar.google.com/calendar/render?cid=1e2c7851addc2867f080e0baf593ed3a758d4af7fbf2118a509b916aaa1a31a1@group.calendar.google.com) or add this [ICS file](https://calendar.google.com/calendar/ical/1e2c7851addc2867f080e0baf593ed3a758d4af7fbf2118a509b916aaa1a31a1%40group.calendar.google.com/public/basic.ics) to whichever calendar application you're using.
+## About the Club
 
-PR review is the easiest way to get into the weeds of Bitcoin Core Development. While the IRC review club is the go-to place for existing Core devs, it can be intimidating for newcomers. For such reason, this club is organized to facilitate ad-hoc and loosely following discussions over a live call for an hour.
-So if you are an aspiring young dev and are a bit disoriented on how to get started with Bitcoin development, do consider joining our club.
+This club meets biweekly on Thursdays at IST 19:00 (UTC 13:30) and is open to all. Our mission is to make Bitcoin Core development more accessible to newcomers by providing a supportive environment for PR reviews and discussions.
+
+- **Joining link**: Shared in the #announcements channel of [Bitshala Discord](https://discord.gg/atjEPVTdsQ)
+- **Calendar**: Subscribe to our [Google Calendar](https://calendar.google.com/calendar/render?cid=1e2c7851addc2867f080e0baf593ed3a758d4af7fbf2118a509b916aaa1a31a1@group.calendar.google.com) or add this [ICS file](https://calendar.google.com/calendar/ical/1e2c7851addc2867f080e0baf593ed3a758d4af7fbf2118a509b916aaa1a31a1%40group.calendar.google.com/public/basic.ics) to your calendar application
 
 > Participating with video isn't mandatory.
-> The calls will be recorded and published for educational purpose
+> The calls are recorded and published for educational purposes.
 
-**Index:**
-- [Bitshala Bitcoin Core PR Review Club](#bitshala-bitcoin-core-pr-review-club)
+## Table of Contents
 - [Next Review Club](#next-review-club)
 - [How To Participate](#how-to-participate)
+- [Request a PR Review](#request-a-pr-review)
 - [Prerequisites](#prerequisites)
     - [Basics](#basics)
     - [Further Reading](#further-reading)
-- [Previous Review Club](#previous-review-club)
+- [Previous Review Club Sessions](#previous-review-club-sessions)
 
-# Next Review Club
-- Date: 8 August 2024
+## Next Review Club
+- Date: May 16, 2025
 - Title: TBA
 - PR Details: TBA
 
-# How To Participate
+## How To Participate
 
- - Keep an eye on this `README` to find weekly updates.
- - Join the [Bitshala Discord](https://discord.gg/atjEPVTdsQ), where PR-related discussions take place. Jitsi link for joining the call will be shared there.
- - Each Week's topic detail is included in an [Issue](https://github.com/Bitshala/Bitcoin-Core-Review/issues). Use the issue comments to post questions and discussions regarding the PR or review process in general.
- - The review process starts by checking out the PR and going through the `Notes and Questions` included in the topic details.
- - Prepare your answers before joining the call. There can be many right answers, but there are no stupid questions.
- - Join in the jitsi room at the scheduled time and participate in the conversation.
- - Submit your final review to the original Bitcoin Core PR thread.
+1. Keep an eye on this `README` for weekly updates
+2. Join the [Bitshala Discord](https://discord.gg/atjEPVTdsQ), where PR-related discussions take place and meeting links are shared
+3. Each review topic is detailed in an [Issue](https://github.com/Bitshala/Bitcoin-Core-Review/issues) - use the comments to post questions and discuss the PR
+4. Review process:
+   - Check out the PR
+   - Go through the "Notes and Questions" in the topic details
+   - Prepare your answers before joining the call
+   - Join the Jitsi room at the scheduled time
+   - Submit your final review to the original Bitcoin Core PR thread
 
-# Prerequisites
+## Request a PR Review
 
-If you are a first-time participant or haven't reviewed Core PRs before, you will find the following resources helpful.
+If you'd like to have your Bitcoin Core PR reviewed in our club:
+
+1. Create an [issue](https://github.com/Bitshala/Bitcoin-Core-Review/issues/new) with the following information:
+   - Title: "PR Review Request: [Your PR Title]"
+   - PR Link: Link to your Bitcoin Core PR
+   - Brief description of what your PR does
+   - Areas of feedback you're looking for
+   - Any specific questions you have about your implementation
+
+2. Bitshala team will review your request and schedule it for an upcoming review session if appropriate
+
+3. You're encouraged to attend the session when your PR is reviewed to provide context and answer questions
+
+## Prerequisites
+
+If you're a first-time participant or haven't reviewed Core PRs before, you'll find these resources helpful:
 
 ### Basics
- - Common operational steps of Core review Process: [youtube](https://youtu.be/n5CRJRqkAoc)
-   Code available [here](./test-pr.sh)
- - Bitcoin Core Codebase Introductory Tour: [youtube](https://www.youtube.com/watch?v=MbinzItqsXI)
+- Common operational steps of Core review Process: [YouTube](https://youtu.be/n5CRJRqkAoc)
+  Code available [here](./test-pr.sh)
+- Bitcoin Core Codebase Introductory Tour: [YouTube](https://www.youtube.com/watch?v=MbinzItqsXI)
 
 ### Further Reading
- - Contributing to Bitcoin Core: [doc](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md)
- - Developer Notes: [doc](https://github.com/bitcoin/bitcoin/blob/master/doc/developer-notes.md)
- - Intro to Bitcoin Core Dev: [doc](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
- - Contributing to Bitcoin Core, a personal account: [doc](https://johnnewbery.com/contributing-to-bitcoin-core-a-personal-account/)
- - Onboarding to Bitcoin Core: [doc](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365)
- - From “Hello World” to Bitcoin Core: [doc](https://rajarshi149.medium.com/from-hello-world-to-bitcoin-core-dd233ce99f72)
+- Contributing to Bitcoin Core: [doc](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md)
+- Developer Notes: [doc](https://github.com/bitcoin/bitcoin/blob/master/doc/developer-notes.md)
+- Intro to Bitcoin Core Dev: [doc](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
+- Contributing to Bitcoin Core, a personal account: [doc](https://johnnewbery.com/contributing-to-bitcoin-core-a-personal-account/)
+- Onboarding to Bitcoin Core: [doc](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365)
+- From "Hello World" to Bitcoin Core: [doc](https://rajarshi149.medium.com/from-hello-world-to-bitcoin-core-dd233ce99f72)
+
 
 # Previous Review Club
 
 | index | date          | PR notes/discussions                                                                                                                                           | video                                                    | tag                                            |
 |-------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------|
+| 54 | 24 Apr 2025 | [Bitcoin-Core v29.0](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/118) | [link](https://youtu.be/l0FH3OljXgE?si=je9UjR_VpWRZnzDL) | `release` `testing` |
+| 53    | 10 Apr 2025 | [Clang/LLVM based coverage generation](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/109) | [link](https://youtu.be/vmub9voeNMM?si=Brmq0qWxjcmQOnku) | `build` |
+| 52    | 13 Mar 2025 | [fuzz: split coinselection harness](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/107) |  | `fuzz` `tests` |
+| 51    | 27 Feb 2025 | [psbt add non-default sighash types to PSBTs and unify sighash type match checking](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/105) | [link](https://youtu.be/vFiwdDfmcLc?si=VZJ5ZiWaWe3L_f8x) | `p2p` `tests` |
+| 50    | 30 Jan 2025 | [test, Call generate RPCs through test framework only, qa: Improve framework.generate* enforcement (#31403 follow-up)](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/101) | [link](https://youtu.be/aIDZmIV3_ik?si=ifP5b9QgHz8kmBjh) | `rpc` `tests` |
+| 49    | 16 Jan 2025 | [add missing segwitv1 test cases to script_standard_tests and exploring v3 transaction relay](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/99) | [link](https://youtu.be/xdepfElIWqY?si=n4wJ-4mtldu7KgoP) | `p2p` `rbf` |
+| 48    | 1 Jan 2025 | [fuzz: Abort if system time is called without mock time being set](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/97) | [link](https://youtu.be/Qb8pt5q2BYg?si=iOYgQlyEkMNSOPaR) | `fuzz` `tests` |
+| 47    | 19 Dec 2025 | [Execute Discover() when bind=0.0.0.0 or :: is set](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/95) | [link](https://youtu.be/e-3C1vMyXow?si=EyEGnagw5Y6GikSD) | `p2p` `tests` |
+| 46    | 5 Dec 2024 | [handle invalid -rpcbind port](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/110) | [link](https://youtu.be/rlx5BM9iarU?si=K5Ogh_rZbF-nTpcF) | `rpc` `p2p` |
+| 45    | 26 Nov 2024 | [(test) clarify timewarp grace period griefing attack](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/103) |  | `rpc` `p2p` |
+| 44    | 21 Nov 2024 | [Settxfeerate](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/92) | [link](https://youtu.be/IGjSnApE7Vc?si=x60rhdNHZVQaNjBg) | `rpc` `wallet` |
+| 43    | 7 Nov 2024 | [Review Club: Drop miniupnp dependency](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/90) | [link](https://youtu.be/s6QLJq-Dbfs?si=X-u2kDUEIUiUYWnr) | `p2p` `rpc` |
+| 42    | 24 Oct 2024 | [Prevention of Stalling when close to the tip](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/88) | [link](https://youtu.be/qMu_vipflxQ?si=sdQhp91Ttx3J_3MX) | `p2p` |
+| 41    | 10 Oct 2024 | [P2P - Increase tx relay rate ](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/86) |  | `p2p` |
+| 40    | 26 Sept 2024 | [Review Club : PSBT input utxo population](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/111) | [link](https://youtu.be/YCgE339NFAA?si=Lcpi9ulCTICPHLqQ) | `p2p` `rpc` |
+| 39    | 19 Sept 2024 | [Review Club: p2p - Tracing in Bitcoin Core](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/112) |  | `p2p` `tracing` |
+| 38    | 5 Sept 2024 | [rpc: Add test-only RPCs under -test=<option> flag ](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/83) |  | `p2p` |
+| 37    | 22 Aug 2024 | [p2p: Increase inbound capacity for block-relay only connections](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/82) | [link](https://youtu.be/vEdMD6kfRHQ?si=T8zJq5Litob28awM) | `p2p` |
+| 36    | 8 Aug 2024 | [RPC : Fix -norpcwhitelist, -norpcallowip, and similar corner case behavior Aug 8 2024](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/113) | [link](https://youtu.be/dD8AvWereWw?si=_xOrY2wBA5BQgB4i) | `rpc` |
 | 35    | 25 July 2024  | [consensus: Store transaction nVersion as uint32_t #29325](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/72)                              |                                                          | `consensus`                                    |
 | 34    | 11 July 2024  | [[Part 3/3: Writing unit tests and fuzz tests] p2p - Fill reconciliation sets](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/70)          |                                                          | `BIP330` `erlay`                               |                                                                                                                              
 | 33    | 13 June 2024  | [[Part 2/3] p2p: Fill reconciliation sets (Erlay) attempt 2 #30116](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/69)                     |                                                          | `BIP330` `erlay`                               |
