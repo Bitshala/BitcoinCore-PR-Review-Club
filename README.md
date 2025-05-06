@@ -22,7 +22,7 @@ This club meets biweekly on Thursdays at IST 19:00 (UTC 13:30) and is open to al
 - [Previous Review Club Sessions](#previous-review-club-sessions)
 
 ## Next Review Club
-- Date: May 16, 2025
+- Date: May 8, 2025
 - Title: TBA
 - PR Details: TBA
 
