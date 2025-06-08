@@ -75,6 +75,8 @@ If you're a first-time participant or haven't reviewed Core PRs before, you'll f
 
 | index | date          | PR notes/discussions                                                                                                                                           | video                                                    | tag                                            |
 |-------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------|
+| 56 | 5 Jun 2025 | [Add mutation check inside compact block's FillBlock ](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/124) |  | `p2p` |
+| 55 | 22 May 2025 | [BIP-348 (OP_CHECKSIGFROMSTACK) (regtest only)](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/123) | [link](https://youtu.be/106EwJrQlsI?si=-erK9EIgz4YsELP4) | `script` |
 | 54 | 24 Apr 2025 | [Bitcoin-Core v29.0](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/118) | [link](https://youtu.be/l0FH3OljXgE?si=je9UjR_VpWRZnzDL) | `release` `testing` |
 | 53    | 10 Apr 2025 | [Clang/LLVM based coverage generation](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/109) | [link](https://youtu.be/vmub9voeNMM?si=Brmq0qWxjcmQOnku) | `build` |
 | 52    | 13 Mar 2025 | [fuzz: split coinselection harness](https://github.com/Bitshala/BitcoinCore-PR-Review-Club/discussions/107) |  | `fuzz` `tests` |
