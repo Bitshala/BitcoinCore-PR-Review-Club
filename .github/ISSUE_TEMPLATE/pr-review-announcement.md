@@ -23,7 +23,10 @@ assignees: ''
 
 <!-- Any specific knowledge or setup required to participate -->
 
-## Notes and Questions
+## Notes
+<!-- any observation while reviewing the pr-->
+
+## Questions
 
 <!-- List of questions to guide the review -->
 
